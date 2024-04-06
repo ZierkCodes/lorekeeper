@@ -1,1 +1,3 @@
 # lorekeeper
+
+This is my first console MUD-like project, this isn't just a game, it is a horror experience...
