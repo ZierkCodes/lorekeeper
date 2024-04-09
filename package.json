@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "name": "lorekeeper",
+  "description": "This is my first console MUD-like project, this isn't just a game, it is a horror experience...",
+  "version": "1.0.0",
+  "main": "game.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
