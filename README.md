@@ -1,3 +1,3 @@
-# lorekeeper
+# LoreKeeper
 
-This is my first console MUD-like project, this isn't just a game, it is a horror experience...
+### This game ***MUST be played in a maximized terminal window***, some text will wrap when it is not supposed to if your terminal window is too small.
